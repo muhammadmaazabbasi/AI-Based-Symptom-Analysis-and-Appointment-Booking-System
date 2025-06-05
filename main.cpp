@@ -30,7 +30,7 @@ int main() {
     int port = 8080;
     
     // Use the configured Gemini API key from Replit secrets
-    std::string apiKey = "AIzaSyDpyV4XDQFgkfODEu-jMqBUyvTOS7QO0sc";
+    std::string apiKey = "YOUR_API_KEY";
     
     // if (apiKey.empty()) {
     //     std::cerr << "❌ Error: GEMINI_API_KEY not found!" << std::endl;
