@@ -29,7 +29,7 @@ int main() {
     
     int port = 8080;
     
-    // Use the configured Gemini API key from Replit secrets
+    // Use the configured Gemini API key
     std::string apiKey = "YOUR_API_KEY";
     
     // if (apiKey.empty()) {
